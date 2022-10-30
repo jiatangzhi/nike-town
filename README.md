@@ -4,7 +4,7 @@
 Banner:
 <img width="1440" alt="Screenshot 2022-10-30 at 15 39 31" src="https://user-images.githubusercontent.com/72444963/198887688-d09bc573-4f4d-446f-8b09-44cdef4d9a07.png">
 
-Products:
+Products with different colours and sizes:
 <img width="1440" alt="Screenshot 2022-10-30 at 15 43 38" src="https://user-images.githubusercontent.com/72444963/198887910-e121e1e0-878e-445a-9d77-543ef754f2d2.png">
 
 Payment tab:
